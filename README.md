@@ -1,2 +1,3 @@
 # hello-world
-This is my first repository.
+This is my first repository. Would you believe I'm having a hard time thinking of something clever to say about myself?
+Perhaps it's time for some more coffee...
